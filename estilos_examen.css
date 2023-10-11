@@ -1,0 +1,37 @@
+*{
+    font-size: 18px;
+   }
+   header{
+       text-align: center;
+       color: white ;
+       background-color: black;
+       padding: 20px;
+   }
+   ul{
+       list-style-type:none;
+       padding:none;
+   }
+   li{
+       margin-right: 20px;
+       display: inline;
+   }
+   a{
+       text-decoration: none;
+       color:#333;
+       font-weight: bold;
+   }
+   body{
+       background-color:#eee;
+   }
+   #inicio{
+       margin-bottom: 20px;
+   }
+   #elenco{
+       margin-bottom: 20px;
+   }
+   #secuelas{
+       margin-bottom: 20px;
+   }
+   .FOTOS{
+ border:solid green ;
+   }
